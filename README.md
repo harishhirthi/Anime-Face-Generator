@@ -12,3 +12,6 @@ Below video shows the sequence of images generated while Training.
 
 https://github.com/harishhirthi/Anime-Face-Generator/assets/43694283/8f9bf915-23eb-4b12-b074-a48affcb043d
 
+## Contain one file and folder:
+* GAN.ipynb - Notebook about DCGAN
+* Video.
