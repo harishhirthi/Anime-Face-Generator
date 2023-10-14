@@ -6,6 +6,7 @@ Interesting Topic as a part of **Generative AI** to generate different Anime Fac
 artificial Anime Faces. These GANs are based on **Unsupervised Learning** which analyses and generate the variations data within the given dataset.
 
 ## Dataset: https://www.kaggle.com/datasets/splcher/animefacedataset
+## Ref: https://jovian.com/learn/deep-learning-with-pytorch-zero-to-gans
 
 ## Video:
 Below video shows the sequence of images generated while Training.
